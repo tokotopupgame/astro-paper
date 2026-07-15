@@ -1,0 +1,1 @@
+Mau buka link di tab baru? <a href="https://google.com" target="_blank">Klik di sini</a>.
